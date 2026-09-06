@@ -1,1 +1,6 @@
 
+Reflect on what did learned about trusting (or not trusting) a simulation?
+
+I learned that it's very importatnt you consider numerical analysis when simulating events. Although some methods are easier to
+simply produce results than others, the more complex methods may reduce numerical error. This means that not all simulations (especially ones 
+that you did not create) can be trusted.
