@@ -1,0 +1,5 @@
+Reflect on what has been the hardest concept so far? What clicked this week?
+
+The hardest concept this far was last week by far, learning about Euler and Euler-cromer methods was really difficult for me to understand in terms of code.
+However, that is actually what clicked this week. After doing this project, I think I understand better the difference between each method. Euler
+is simpler at the cost of a lot of extra energy being accounted for, while EC actually does the extra work of accounting for drag force or transient forces.
