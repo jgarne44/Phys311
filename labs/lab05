@@ -1,0 +1,6 @@
+What was the Hardest thing to understand so far? What did you understand this week?
+
+The hardest thing to understand so far was probably the main difference between using Euler-cromer and Verlet. 
+I understand they both take really tiny time steps to see what the position of an object is doing, but it was difficult for me to understand
+why use one over the other. This week, I understood that using Verlet was more useful because of its symplectic nature. Because it uses both Acceleration 
+and velocity in tiny time intervals instead of just A (Euler), the small numerical errors made during the dt steps were bounded instead of accumulated.
